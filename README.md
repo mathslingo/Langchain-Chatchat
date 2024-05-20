@@ -3,9 +3,10 @@
 🌍 [READ THIS IN ENGLISH](README_en.md)
 🌍 [日本語で読む](README_ja.md)
 
-📃 **LangChain-Chatchat** (原 Langchain-ChatGLM)
+📃 **LangChain-Chatchat**
 
-基于 ChatGLM 等大语言模型与 Langchain 等应用框架实现，开源、可离线部署的检索增强生成(RAG)大模型知识库项目。
+- 基于 ChatGLM 等大语言模型与 Langchain 等应用框架实现
+- RAG: 开源、可离线部署的检索增强生成(RAG)大模型知识库项目
 
 ### ⚠️ 重要提示
 
